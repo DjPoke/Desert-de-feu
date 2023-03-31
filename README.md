@@ -1,10 +1,10 @@
 # Désert de feu
- Désert de feu est une fiction interactive pour python et pygame.
+"Désert de feu" is an interactive fiction (in French) for python and pygame.
  
- Il s'agit d'un de mes vieux programmes.
+It is an old program i've made.
  
- ![DesertDeFeu](screenshot.jpg)
+![DesertDeFeu](screenshot.jpg)
  
- Bonne aventure !
+Enjoy
  
- DjPoke
+DjPoke
