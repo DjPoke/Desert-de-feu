@@ -5,7 +5,7 @@
 # Nom du programme : "Désert de feu"
 # Type de jeu : "Jeu d'aventure textuel"
 # Par : "Bruno Vignoli"
-# Site : "http://retro.bruno.pagesperso-orange.fr/"
+# Site : "https://cpclike.com/"
 # Commencé le : "25/10/2013 à 20h05"
 # Nécessite : "Python 2.7.4 minimum et le module Pygame"
 # =======================================================
@@ -29,7 +29,7 @@ screen_height = 768
 screen_txt_y = 463
 screen_txt_height = 252
 screen_image_x = 256
-screen_image_y = 26
+screen_image_y = 24
 intro_image_x = 256
 intro_image_y = 0
 font_size = 22
